@@ -1,0 +1,62 @@
+#imaginary_container{
+    margin-top:20%; /* Don't copy this */
+}
+.stylish-input-group .input-group-addon{
+    background: white !important; 
+    
+}
+.stylish-input-group .form-control{
+	border-right:0; 
+	box-shadow:0 0 0; 
+	border-color:#ccc;
+}
+.stylish-input-group button{
+    border:0;
+    background:transparent;
+    color: black;
+}
+.btn-btn-default{
+     border:0;
+    background:black;
+}
+
+#facets {
+	text-align: center;
+}
+
+.post {
+	width: 50%;
+	border: 1px solid gray;
+	border-radius: 5px;
+	margin: auto;
+	background-color: #CAE1E8;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.cont {
+	float: left;
+	text-align: center;
+	margin-top: -10px;
+}
+
+.userPic {
+	border-radius: 100%;
+	display: block;
+	margin: auto;
+}
+
+.date {
+	float: right;
+	font-size: 10px;
+}
+
+.postText {
+	clear: both;
+	font-weight: bold;
+	font-size: 15px;
+	font-family: Arial;
+}
+h2 {
+	font-size: 12px;
+}

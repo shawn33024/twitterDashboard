@@ -1,0 +1,63 @@
+.heading {
+  margin-top: 57px;
+  font-family: Montserrat, sans-serif;
+  color: #4b4b4b;
+  text-align: center;
+}
+
+.body {
+  border-radius: 25px;
+  background-color: hsla(0, 0%, 89%, .7);
+}
+
+.subheading {
+  display: block;
+  width: 70%;
+  margin-right: auto;
+  margin-left: auto;
+  color: #797979;
+  text-align: center;
+}
+
+.twitterheading {
+  width: 30%;
+  float: right;
+  text-align: right;
+}
+
+.linktag {
+  position: static;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  color: #000;
+  font-size: 24px;
+  text-decoration: none;
+}
+
+.col2 {
+  margin-top: 24px;
+}
+
+.search-section {
+  margin-top: 90px;
+}
+
+.searchfield {
+  display: block;
+  width: 50%;
+  margin-right: auto;
+  margin-left: auto;
+  border: 2px solid #000;
+  border-radius: 9px;
+}
+
+.submitbtn {
+  display: block;
+  margin-top: 20px;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 9px;
+  background-color: hsla(0, 0%, 40%, .72);
+}
